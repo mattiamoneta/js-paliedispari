@@ -1,0 +1,24 @@
+*,
+::after,
+::before{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 992px;
+    margin: auto;
+    padding: 50px 0px;
+}
+
+.msgbox{
+    border-radius: 20px;
+    padding: 40px 20px;
+    width: 100%;
+    background-color: #eef09e;
+    border: 1px solid #a7a858;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+}
